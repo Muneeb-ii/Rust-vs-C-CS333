@@ -1,0 +1,9 @@
+# Binary executables
+concurrency
+memory_safety
+traits_generic
+error_handling
+example
+
+# OS generated
+.DS_Store
